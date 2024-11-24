@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Anti Superheroes</string>
+    <string name="hero1">Kuroshi Akai</string>
+    <string name="description1">Keadilan? Itu hanya ilusi, Yang ada hanya kekuatan untuk bertahan</string>
+    <string name="hero2">Ryuu Kage</string>
+    <string name="description2">Tak ada yang lebih kuat daripada seseorang yang berjuang untuk alasan yang benar, meski cara mereka salah</string>
+    <string name="hero3">Noctis</string>
+    <string name="description3">Aku bukanlah pahlawan, hanya orang yang tak ingin melihat orang lain terluka... apapun harga yang harus dibayar</string>
+    <string name="hero4">Eren Yeager</string>
+    <string name="description4">Dunia ini tak akan berubah tanpa darah. Jika aku harus menghancurkan semuanya, maka aku akan melakukannya</string>
+    <string name="hero5">Ryuji Sakamoto</string>
+    <string name="description5">Dunia ini kejam, tapi jika aku harus meruntuhkan sistem untuk melindungi orang yang aku cintai, aku akan melakukannya.</string>
+    <string name="hero6">Mugen</string>
+    <string name="description6">Aturan? Aku tidak percaya pada aturan. Aku hanya hidup untuk hari ini dan untuk diriku sendiri.</string>
+</resources>
